@@ -16,4 +16,6 @@ To obtain offsets, download MPU6050_calbration.ino: https://forum.arduino.cc/ind
 MPU6050 Library: https://github.com/jrowberg/i2cdevlib/blob/master/Arduino/MPU6050/MPU6050.h
 
 I2cdev.h Library: https://www.i2cdevlib.com/docs/html/_i2_cdev_8h_source.html
+
+Download the full project: https://drive.google.com/open?id=1NrwzO46TeLoB8iT942Cb9eI3AgEkaWym
  
