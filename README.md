@@ -18,3 +18,5 @@ MPU6050 Library: https://github.com/jrowberg/i2cdevlib/blob/master/Arduino/MPU60
 I2cdev.h Library: https://www.i2cdevlib.com/docs/html/_i2_cdev_8h_source.html
 
 Download the full project: https://drive.google.com/drive/folders/1NrwzO46TeLoB8iT942Cb9eI3AgEkaWym?usp=sharing
+
+Blog Link: https://medium.com/@dhrutichandarana97/game-controller-using-unity3d-and-arduino-f061c02fc344
